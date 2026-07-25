@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.7.0</version>
-    <url>https://github.com/lukediaz501/AgendaPostIt-Updates/raw/main/AgendaPostIt-v1.0.7.0.zip</url>
-    <changelog>https://github.com/lukediaz501/AgendaPostIt-Updates</changelog>
+    <url>https://gitea.com/LucasDias/AgendaPostIt/releases/download/1.0.7.0/AgendaPostIt-v1.0.7.0.zip</url>
+    <changelog>https://gitea.com/LucasDias/AgendaPostIt/releases</changelog>
     <mandatory>false</mandatory>
 </item>
